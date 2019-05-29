@@ -36,16 +36,22 @@
     padding: 1em;
   }
 .image-cropper {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
   }
 .portrait-pic {
-    display: inline;
+    display: block;
     margin: 0 auto;
     margin-left: -25%; //centers the image
     height: 100%;
     width: auto;
+}
+#quote {
+    font-size: 30px
+}
+#whoSaidIt {
+    font-size: 18px
 }
