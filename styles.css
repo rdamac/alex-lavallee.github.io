@@ -52,6 +52,12 @@
     height: 100%;
     width: auto;
 }
+#name {
+    font-size: 72px
+}
+#title {
+    fontsize: 48px
+}
 #quote {
     font-size: 30px
 }
