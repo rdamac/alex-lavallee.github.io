@@ -41,6 +41,9 @@
     position: relative;
     overflow: hidden;
     border-radius: 50%;
+    background-image: url('myPhoto.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
   }
 .portrait-pic {
     display: block;
